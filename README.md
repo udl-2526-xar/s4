@@ -1,4 +1,4 @@
-# Sessió 4 (03/03)
+# Sessió 4 (02/03)
 
 ## Treballar amb variables compartides entre threads
 
