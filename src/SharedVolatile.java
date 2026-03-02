@@ -1,4 +1,4 @@
-public class SharedUnsafe
+public class SharedVolatile
 {
 	private static volatile int x = 0;
 
